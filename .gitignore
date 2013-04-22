@@ -1,5 +1,7 @@
 /bin
+/.metadata
 *.classpath
 *.project
 *.prefs
 *.class
+*.lock
